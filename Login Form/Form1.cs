@@ -16,7 +16,7 @@ namespace Login_Form
     public partial class Form1 : Form
     {
         private string  connectionString = "Host=myserver;Username=mylogin;Password=mypass;Database=mydatabase";
-//using var dataSource = NpgsqlDataSource.Create(connectionString);
+        //using var dataSource = NpgsqlDataSource.Create(connectionString);
 
 
 
@@ -66,12 +66,12 @@ namespace Login_Form
             //conn = new NpgsqlConnection(connstring);
         }
 
-        private void label3_Click(object sender, EventArgs e)
+        private async void label3_Click(object sender, EventArgs e)
         {
             using (var conn = new NpgsqlConnection(connectionString))
             {
                 await conn.OpenAsync();
-                var result = await conn.QueryAsync<object>(@"select *from public.users");
+                var result = await conn.QueryAsync<object>(@"select * from public.users");
                 await conn.CloseAsync();
             }
         }

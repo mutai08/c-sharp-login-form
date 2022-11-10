@@ -30,3 +30,23 @@ D:\Projects\C#\Login Form\Login Form\obj\Debug\netcoreapp3.1\Login Form.csproj.C
 D:\Projects\C#\Login Form\Login Form\obj\Debug\netcoreapp3.1\Login Form.dll
 D:\Projects\C#\Login Form\Login Form\obj\Debug\netcoreapp3.1\Login Form.pdb
 D:\Projects\C#\Login Form\Login Form\obj\Debug\netcoreapp3.1\Login Form.genruntimeconfig.cache
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Projects\C#\Login Form\Login Form\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Projects\C#\Login Form\Login Form\obj\Debug\netcoreapp3.1\Login Form.csproj.CopyComplete
